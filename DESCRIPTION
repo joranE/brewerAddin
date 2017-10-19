@@ -6,9 +6,9 @@ Author: Joran Elias
 Maintainer: Joran Elias <joran.elias@gmail.com>
 Description: Quickly view Brewer color palettes from the RColorBrewer package.
 Depends:
-  R (>= 3.4.1),
-  RColorBrewer
+  R (>= 3.4.1)
 Imports:
+  RColorBrewer,
   shiny (>= 0.13),
   miniUI (>= 0.1.1),
   rstudioapi (>= 0.5)

@@ -1,4 +1,4 @@
-#' @import shiny miniUI rstudioapi
+#' @import RColorBrewer shiny miniUI rstudioapi
 brewerAddin <- function(){
 
   ui <- miniPage(
